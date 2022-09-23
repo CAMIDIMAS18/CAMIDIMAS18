@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @CAMIDIMAS18
+- 👋 Hi, I'm Camila Dimas
 - 👀 I'm interested in test automation.
 - 🌱 I'm currently learning about automation frameworks for testing: web, apis and load.
 - 💞️ I am looking to collaborate on automation frameworks.
